@@ -56,8 +56,8 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 ## Authors
 
-- [*Gokul R*](https://github.com/gokul2507)
-- [*_Harish Kumar R J_*](https://github.com/anonymous-me236)
-- [*_Dincy V D_*](https://github.com/Dincy89)
-- [*_Sowmya V_*](https://github.com/vsowmyasv)
-- [*_Shakthi A S_*](https://github.com/shakthi-26)
+- [**_Gokul R_**](https://github.com/gokul2507)
+- [**_Harish Kumar R J_**](https://github.com/anonymous-me236)
+- [**_Dincy V D_**](https://github.com/Dincy89)
+- [**_Sowmya V_**](https://github.com/vsowmyasv)
+- [**_Shakthi A S_**](https://github.com/shakthi-26)
