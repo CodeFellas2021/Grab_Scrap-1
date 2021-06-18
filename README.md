@@ -1,10 +1,10 @@
-#Grab-Scrap
+# Grab-Scrap
 
 
 
 # Contents
 
-- [Grab Scrap](#Grab-Scrap)
+- [Grab Scrap](#grab-scrap)
   - [Contents](#contents)
   - [Short description](#short-description)
   - [Demo video](#demo-video)
@@ -12,12 +12,10 @@
   - [Long description](#long-description)
     - [what is GRAB SCRAP](#what-is-grab-scrap)
     - [What problems it solves](#circular-economy)
-    - [Benefits](#Benefits)
+    - [Benefits](#benefits)
   - [Project roadmap](#project-roadmap)
   - [Built with](#built-with)
   - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 # Short description
 
@@ -58,18 +56,8 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 ## Authors
 
--[Gokul R](https://github.com/gokul2507)
--[Harish Kumar R J](https://github.com/anonymous-me236)
--[Dincy Daniel](https://github.com/Dincy89)
--[Sowmya](https://github.com/vsowmyasv)
--[Shakthi](https://github.com/shakthi-26)
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- [Gokul R](https://github.com/gokul2507)
+- [Harish Kumar R J](https://github.com/anonymous-me236)
+- [Dincy V D](https://github.com/Dincy89)
+- [Sowmya V](https://github.com/vsowmyasv)
+- [Shakthi A S](https://github.com/shakthi-26)
