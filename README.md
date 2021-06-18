@@ -51,8 +51,8 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 ## _Built with_
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [Maven](https://maven.apache.org/) - Dependency management
+- [**IBM Cloudant**](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [**Maven**](https://maven.apache.org/) - Dependency management
 
 ## _Authors_
 
