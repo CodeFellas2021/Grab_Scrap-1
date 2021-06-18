@@ -1,4 +1,4 @@
-# Grab-Scrap
+# _*Grab-Scrap*_
 
 ### A circular economy is a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-waste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources
 
@@ -32,11 +32,11 @@ We created an application that serves as a platform for people from many sectors
 
 # Long description
 
-## What is GRAB SCRAP
+## _What is GRAB SCRAP_
 Grab-Scrap is a platform/marketplace for manufacturers and consumers from varied sectors to buy & sell recyclable waste. Our application serves as a source of information for both manufacturers and consumers to fulfil their respective needs. Industries - Small scale businesses - individuals from varied sectors can register on our App and benefit from the plethora of opportunities to buy or sell recyclable waste. Registration is a one-time procedure where users register with their name, email address and contact number. We only provide a platform for the exchange of goods and do not operate as a middleman between the producer and the consumer, so they do not have to pay any additional fee or commission involved. Therefore, we are not responsible or accountable for the content provided by the transacting entities. The producer who desires to sell his recyclable waste will have to furnish the details like cost, location, description, so that the buyer has a clear picture of what they are looking to purchase. We do offer an add-on function that allows the seller to delete the product details. The buyer will be able to see all the details about the seller in addition to the details of the product in a one-click process that includes price, contact information, address and company name. 
-## Circular economy
+## _Circular economy_
 Every year, we produce 1.3 billion tonnes of waste, far more than what we could possibly recycle. This has resulted in environmental disasters such as marine pollution, soil degradation, and a lack of sustainable waste disposal process. The majority of our global economy is built on the take-make-waste model rather than circularity. Companies, corporations, governments, and individuals can embrace circularity by forming partnerships to consolidate and then circulate their recyclable garbage. Since circularity should not be limited to a single industry, we created this platform where individuals & vendors from all domains across India can connect and circulate waste for a better environment and sustainable future for us all.
-## Benefits
+## _Benefits_
 This platform will act as a crucial link amongst individuals and will pave the way for more garbage recycling.
 With more recyclable waste utilized, the dependence on natural resources is also reduced, resulting in a bigger impact. 
 When waste is recycled on a bigger scale, it creates job opportunities and boosts the nation's economy. 
@@ -56,8 +56,8 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 ## Authors
 
-- [Gokul R](https://github.com/gokul2507)
-- [Harish Kumar R J](https://github.com/anonymous-me236)
-- [Dincy V D](https://github.com/Dincy89)
-- [Sowmya V](https://github.com/vsowmyasv)
-- [Shakthi A S](https://github.com/shakthi-26)
+- [*Gokul R*](https://github.com/gokul2507)
+- [*_Harish Kumar R J_*](https://github.com/anonymous-me236)
+- [*_Dincy V D_*](https://github.com/Dincy89)
+- [*_Sowmya V_*](https://github.com/vsowmyasv)
+- [*_Shakthi A S_*](https://github.com/shakthi-26)
