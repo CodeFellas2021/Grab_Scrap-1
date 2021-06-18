@@ -1,21 +1,21 @@
-# _*Grab-Scrap*_
+# _*Grab Scrap*_
 
-### A circular economy is a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-waste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources
+### _A circular economy is a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-waste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources._
 
 # Contents
 
 - [Grab Scrap](#grab-scrap)
-  - [Contents](#contents)
-  - [Short description](#short-description)
-  - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-    - [what is GRAB SCRAP](#what-is-grab-scrap)
-    - [What problems it solves](#circular-economy)
-    - [Benefits](#benefits)
-  - [Project roadmap](#project-roadmap)
-  - [Built with](#built-with)
-  - [Authors](#authors)
+  - [**_Contents_**](#contents)
+  - [**_Short description_**](#short-description)
+  - [**_Demo video_**](#demo-video)
+  - [**_The architecture_**](#the-architecture)
+  - [**_Long description_**](#long-description)
+    - [**_what is GRAB SCRAP_**](#what-is-grab-scrap)
+    - [**_What problems it solves_**](#circular-economy)
+    - [**_Benefits_**](#benefits)
+  - [**_Project roadmap_**](#project-roadmap)
+  - [**_Built with_**](#built-with)
+  - [**_Authors_**](#authors)
 
 # Short description
 
