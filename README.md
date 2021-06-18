@@ -60,6 +60,9 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 -[Gokul R](https://github.com/gokul2507)
 -[Harish Kumar R J](https://github.com/anonymous-me236)
+-[Dincy Daniel](https://github.com/Dincy89)
+-[Swomya](https://github.com/vsowmyasv)
+-[Shakthi](https://github.com/shakthi-26)
 
 - **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
