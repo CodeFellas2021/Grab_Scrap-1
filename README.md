@@ -1,6 +1,6 @@
 # Grab-Scrap
 
-
+### A circular economy is a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-w aste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources
 
 # Contents
 
