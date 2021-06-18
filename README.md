@@ -4,7 +4,7 @@
 
 # _Contents_
 
-- [Grab Scrap](#grab-scrap)
+###  [**_Grab Scrap_**](#grab-scrap)
   - [**_Contents_**](#contents)
   - [**_Short description_**](#short-description)
   - [**_Demo video_**](#demo-video)
