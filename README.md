@@ -2,7 +2,7 @@
 
 ### _A circular economy is a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-waste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources._
 
-# Contents
+# _Contents_
 
 - [Grab Scrap](#grab-scrap)
   - [**_Contents_**](#contents)
@@ -17,20 +17,20 @@
   - [**_Built with_**](#built-with)
   - [**_Authors_**](#authors)
 
-# Short description
+# _Short description_
 
 We created an application that serves as a platform for people from many sectors to interact and share information about recyclable waste they have. We serve as a source of information for both manufacturers and consumers. Individuals from many sectors can register in our app and supply their details and waste information. Industries - Small scale businesses - individuals from many sectors can register in our app and supply their details and waste information. Our registration method is a one-step procedure in which users provide basic information and register. People who want to sell or buy their waste must go through the same basic registration process. We only supply information and do not operate as a middleman between the producer and the consumer, so they do not have to pay any additional fees or commissions to obtain the waste they require.
 
-# Demo video
+# _Demo video_
 
 [![Grab Scrap](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/GRAB_SCRAP.jpg)](https://youtu.be/-NrSJHKX2-o "GRAB SCRAP")
 
-# The architecture
+# _The architecture_
 
 ![The architecture](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/ARCHITECTURE.jpg)
 
 
-# Long description
+# _Long description_
 
 ## _What is GRAB SCRAP_
 Grab-Scrap is a platform/marketplace for manufacturers and consumers from varied sectors to buy & sell recyclable waste. Our application serves as a source of information for both manufacturers and consumers to fulfil their respective needs. Industries - Small scale businesses - individuals from varied sectors can register on our App and benefit from the plethora of opportunities to buy or sell recyclable waste. Registration is a one-time procedure where users register with their name, email address and contact number. We only provide a platform for the exchange of goods and do not operate as a middleman between the producer and the consumer, so they do not have to pay any additional fee or commission involved. Therefore, we are not responsible or accountable for the content provided by the transacting entities. The producer who desires to sell his recyclable waste will have to furnish the details like cost, location, description, so that the buyer has a clear picture of what they are looking to purchase. We do offer an add-on function that allows the seller to delete the product details. The buyer will be able to see all the details about the seller in addition to the details of the product in a one-click process that includes price, contact information, address and company name. 
@@ -45,16 +45,16 @@ As a result, this project will prove to be extremely vital for in upholding the 
 
 
 
-## Project roadmap
+## _Project roadmap_
 
 ![Roadmap](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/SOLUTION_ROADMAP.jpeg)
 
-## Built with
+## _Built with_
 
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 - [Maven](https://maven.apache.org/) - Dependency management
 
-## Authors
+## _Authors_
 
 - [**_Gokul R_**](https://github.com/gokul2507)
 - [**_Harish Kumar R J_**](https://github.com/anonymous-me236)
