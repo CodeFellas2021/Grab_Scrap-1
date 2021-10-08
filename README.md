@@ -23,7 +23,7 @@ We created an application that serves as a platform for people from many sectors
 
 # _Demo video_
 
-[![Grab Scrap](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/GRAB_SCRAP.jpg)](https://youtu.be/-NrSJHKX2-o "GRAB SCRAP")
+[![Grab Scrap](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/GRAB_SCRAP.jpg)](https://youtu.be/-NrSJHKX2-o "GRAB SCRAP") 
 
 # _The architecture_
 
